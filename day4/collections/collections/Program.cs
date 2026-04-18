@@ -69,8 +69,8 @@ namespace OrderManagementSystem
             Queue<Purchase> processingQueue = new Queue<Purchase>();
 
             // Add clients
-            clientDirectory[1] = new Client(1, "Sneha");
-            clientDirectory[2] = new Client(2, "Alok");
+            clientDirectory[1] = new Client(1, "Sanjay");
+            clientDirectory[2] = new Client(2, "Sanju");
 
             // Create purchases
             Purchase p1 = new Purchase(201, 1, "Electronics");
