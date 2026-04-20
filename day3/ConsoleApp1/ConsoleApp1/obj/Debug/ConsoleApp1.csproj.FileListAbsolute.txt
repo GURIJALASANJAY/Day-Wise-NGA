@@ -1,0 +1,7 @@
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gurij\Desktop\Wipro_NGA\day3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
