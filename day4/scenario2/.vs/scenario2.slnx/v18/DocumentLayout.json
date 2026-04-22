@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day4\\scenario2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3320BDB-7F49-894F-7C13-291443DA7262}|scenario2\\scenario2.csproj|c:\\users\\we\\desktop\\wipro_nga\\day4\\scenario2\\scenario2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3320BDB-7F49-894F-7C13-291443DA7262}|scenario2\\scenario2.csproj|solutionrelative:scenario2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day4\\scenario2\\scenario2\\Program.cs",
+              "RelativeDocumentMoniker": "scenario2\\Program.cs",
+              "ToolTip": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day4\\scenario2\\scenario2\\Program.cs",
+              "RelativeToolTip": "scenario2\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:39:33.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

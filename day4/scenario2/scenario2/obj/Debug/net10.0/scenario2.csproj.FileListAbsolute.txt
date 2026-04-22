@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\bin\Debug\net10.0\scenario2.exe
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\bin\Debug\net10.0\scenario2.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\bin\Debug\net10.0\scenario2.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\bin\Debug\net10.0\scenario2.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\bin\Debug\net10.0\scenario2.pdb
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\refint\scenario2.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.pdb
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\scenario2.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\scenario2\scenario2\obj\Debug\net10.0\ref\scenario2.dll

@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\bin\Debug\net10.0\s3.exe
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\bin\Debug\net10.0\s3.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\bin\Debug\net10.0\s3.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\bin\Debug\net10.0\s3.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\bin\Debug\net10.0\s3.pdb
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\refint\s3.dll
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.pdb
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\s3.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day4\s3\s3\obj\Debug\net10.0\ref\s3.dll
