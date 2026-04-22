@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\bin\Debug\net10.0\CSharp-Order-Event-System.exe
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\bin\Debug\net10.0\CSharp-Order-Event-System.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\bin\Debug\net10.0\CSharp-Order-Event-System.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\bin\Debug\net10.0\CSharp-Order-Event-System.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\bin\Debug\net10.0\CSharp-Order-Event-System.pdb
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\refint\CSharp-Order-Event-System.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.pdb
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\CSharp-Order-Event-System.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\CSharp-Order-Event-System\CSharp-Order-Event-System\obj\Debug\net10.0\ref\CSharp-Order-Event-System.dll
