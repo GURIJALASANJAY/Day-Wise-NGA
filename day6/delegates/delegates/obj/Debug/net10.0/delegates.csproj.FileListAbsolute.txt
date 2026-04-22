@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\bin\Debug\net10.0\delegates.exe
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\bin\Debug\net10.0\delegates.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\bin\Debug\net10.0\delegates.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\bin\Debug\net10.0\delegates.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\bin\Debug\net10.0\delegates.pdb
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\refint\delegates.dll
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.pdb
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\delegates.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day6\delegates\delegates\obj\Debug\net10.0\ref\delegates.dll
