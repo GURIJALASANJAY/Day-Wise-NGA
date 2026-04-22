@@ -1,2 +1,0 @@
-C:\Users\gurij\Desktop\Wipro_NGA\day5\features_of_c#\features_of_c#\obj\Debug\features_of_c#.csproj.AssemblyReference.cache
-C:\Users\gurij\Desktop\Wipro_NGA\day5\features_of_c#\features_of_c#\obj\Debug\features_of_c#.csproj.CoreCompileInputs.cache
