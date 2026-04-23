@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day7\\searching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E8ECC-5C74-465B-BCD1-74B01BD7F665}|searching\\searching.csproj|c:\\users\\we\\desktop\\wipro_nga\\day7\\searching\\searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E8ECC-5C74-465B-BCD1-74B01BD7F665}|searching\\searching.csproj|solutionrelative:searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day7\\searching\\searching\\Program.cs",
+              "RelativeDocumentMoniker": "searching\\Program.cs",
+              "ToolTip": "C:\\Users\\we\\Desktop\\Wipro_NGA\\day7\\searching\\searching\\Program.cs",
+              "RelativeToolTip": "searching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:58:36.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

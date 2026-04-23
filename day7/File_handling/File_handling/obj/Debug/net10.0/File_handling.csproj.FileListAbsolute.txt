@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\bin\Debug\net10.0\File_handling.exe
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\bin\Debug\net10.0\File_handling.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\bin\Debug\net10.0\File_handling.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\bin\Debug\net10.0\File_handling.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\bin\Debug\net10.0\File_handling.pdb
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\refint\File_handling.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.pdb
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\File_handling.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\File_handling\File_handling\obj\Debug\net10.0\ref\File_handling.dll

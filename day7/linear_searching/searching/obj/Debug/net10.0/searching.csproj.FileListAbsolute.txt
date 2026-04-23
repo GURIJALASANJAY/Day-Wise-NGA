@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\bin\Debug\net10.0\searching.exe
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\bin\Debug\net10.0\searching.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\bin\Debug\net10.0\searching.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\bin\Debug\net10.0\searching.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\bin\Debug\net10.0\searching.pdb
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\refint\searching.dll
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.pdb
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\searching.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day7\searching\searching\obj\Debug\net10.0\ref\searching.dll
