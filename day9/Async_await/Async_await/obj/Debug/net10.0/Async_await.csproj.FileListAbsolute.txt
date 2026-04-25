@@ -1,0 +1,14 @@
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\bin\Debug\net10.0\Async_await.exe
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\bin\Debug\net10.0\Async_await.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\bin\Debug\net10.0\Async_await.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\bin\Debug\net10.0\Async_await.dll
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\bin\Debug\net10.0\Async_await.pdb
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.dll
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\refint\Async_await.dll
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.pdb
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\Async_await.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day9\Async_await\Async_await\obj\Debug\net10.0\ref\Async_await.dll
