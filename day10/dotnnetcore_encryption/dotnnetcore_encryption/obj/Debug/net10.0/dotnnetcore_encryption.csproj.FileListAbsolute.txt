@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\bin\Debug\net10.0\dotnnetcore_encryption.exe
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\bin\Debug\net10.0\dotnnetcore_encryption.deps.json
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\bin\Debug\net10.0\dotnnetcore_encryption.runtimeconfig.json
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\bin\Debug\net10.0\dotnnetcore_encryption.dll
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\bin\Debug\net10.0\dotnnetcore_encryption.pdb
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.AssemblyInfo.cs
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.sourcelink.json
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.dll
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\refint\dotnnetcore_encryption.dll
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.pdb
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\dotnnetcore_encryption.genruntimeconfig.cache
+C:\Users\we\Desktop\Wipro_NGA\day10\dotnnetcore_encryption\dotnnetcore_encryption\obj\Debug\net10.0\ref\dotnnetcore_encryption.dll
